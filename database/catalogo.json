@@ -1,0 +1,18 @@
+[
+    {
+        "codigo" : 1,
+        "titulo" : "tropa de elite",
+        "duracao" : 210,
+        "atores" : ["Wagner moura"],
+        "anoDeLancamento" : 2008,
+        "emCartaz" : true
+    },
+    {
+        "codigo" : 2,
+        "titulo" : "profissional",
+        "duracao" : 180,
+        "atores" : ["Jean reno"],
+        "anoDeLancamento" : 1989,
+        "emCartaz" : false
+    }
+]
